@@ -1,0 +1,6 @@
+0;1234;Manuel Santos; Simplification is possible!;
+1;1234;Joao Nunes;HEAT IN FINALS;
+2;1111;Goncalo Pinto;;
+3;1234;xpto;;
+4;1227;Pedelinhe;ZBORDING;
+999;1234;xpto;;
